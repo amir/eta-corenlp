@@ -22,4 +22,4 @@ executable eta-corenlp
   build-depends:       base >=4.8 && <4.9
   hs-source-dirs:      src
   default-language:    Haskell2010
-  java-sources:        target/stanford-corenlp-uberjar-3.7.0.jar
+  maven-depends:       edu.stanford.nlp:stanford-corenlp:3.7.0
