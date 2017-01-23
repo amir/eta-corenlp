@@ -6,6 +6,7 @@ import Java
 import Java.Collections
 
 import CoreNLP
+import MyCollections
 
 main :: IO ()
 main = do
